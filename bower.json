@@ -1,0 +1,22 @@
+{
+  "name": "leaflet-draw",
+  "version": "0.2.3",
+  "description": "Leaflet Draw",
+  "main": ["dist/leaflet.draw-src.js", "dist/leaflet.draw.css"],
+  "keywords": [
+    "leaflet",
+    "draw"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    ".git",
+    ".gitignore",
+    "test",
+    "tests"
+  ]
+}
