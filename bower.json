@@ -10,13 +10,17 @@
   "license": "MIT",
   "private": true,
   "ignore": [
-    "**/.*",
+    "build",
+    "examples",
+    "spec",
+    "source",
     "node_modules",
-    "bower_components",
-    "app/bower_components",
     ".git",
     ".gitignore",
-    "test",
-    "tests"
+    "Jakefile.js",
+    "package.json",
+    "TODO.md",
+    ".bowerrc",
+    "bower.json"
   ]
 }
