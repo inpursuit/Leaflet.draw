@@ -13,14 +13,15 @@
     "build",
     "examples",
     "spec",
-    "source",
+    "src",
     "node_modules",
     ".git",
     ".gitignore",
+    ".gitattributes",
     "Jakefile.js",
     "package.json",
     "TODO.md",
     ".bowerrc",
-    "bower.json"
+    ".bower.json"
   ]
 }
